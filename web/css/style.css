@@ -1,0 +1,140 @@
+.container{
+    width: 886px;
+    height: auto;
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
+
+.preheader{
+    background: url(../image/preheader.jpg);
+    width: 886px;
+    height: 71px;
+}
+.header{
+    background: url(../image/header.jpg);
+    width: 886px;
+    height: 78px;
+}
+.header h3{
+    color : white;
+    margin: 0;
+    padding-left: 80px;
+}
+
+.menu{
+    background: url(../image/menu.jpg);
+    width: 886px;
+    height: 32px;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 80px;
+    line-height: 32px;
+}
+
+.main{
+    background: url(../image/bg.jpg);
+    width: 886px;
+    height: auto;
+    display: flex;
+}
+.left{
+    width: 70%;
+    height: auto;
+    padding-left:  80px;
+    padding-right: 10px;
+    padding-top: 20px;
+    border-right: 2px dotted lightgray;
+}
+h3.aaa{
+    text-decoration: none;
+}
+.title{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    padding-bottom: 10px;
+    text-decoration: none;
+
+
+}
+
+.image img{
+    width: 400px;
+    height: auto;
+    padding-bottom: 20px;
+}
+.image-view img{
+    width: 250px;
+    height: 50px;
+/*    padding-bottom: 10px;*/
+    display: inline-block;
+   
+}
+
+.description{
+    padding-bottom: 40px;
+    border-bottom: 1px solid #e0e0e0;
+    font-size: 16px;
+    font-family: sans-serif;
+
+}
+.information{
+    float: right;
+    color: #42554e;
+    font-size: 10px;
+    margin-top: 5px;
+
+}
+.right{
+    width: 30%;
+    height: auto;
+    border: 1opx solid black;
+    padding-right: 80px;
+    padding-left: 20px;
+}
+.right-news{
+    color: #42554e;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.short-des{
+    font-size: 13px;
+    color: #42554e;
+    font-family: sans-serif;
+    display: inline-block;
+}
+.txt-input{
+    border: dashed 1px;
+    width: 150px;
+}
+.submit-txt{
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+    color: #999999;
+}
+.list a{
+    color: #42554e;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.list{
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+.footer{
+    background: url(../image/footer.jpg);
+    width: 886px;
+    height: 78px;
+}
+
+
